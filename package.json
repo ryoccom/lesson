@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "npx tailwindcss-cli@latest build css/style.css -o public/css/style.css"
+  }
+}
